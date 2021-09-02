@@ -1,0 +1,10 @@
+D:\VSProjects\SpamBot\SpamBot\bin\Debug\SpamBot.exe.config
+D:\VSProjects\SpamBot\SpamBot\bin\Debug\SpamBot.exe
+D:\VSProjects\SpamBot\SpamBot\bin\Debug\SpamBot.pdb
+D:\VSProjects\SpamBot\SpamBot\obj\Debug\SpamBot.csproj.AssemblyReference.cache
+D:\VSProjects\SpamBot\SpamBot\obj\Debug\SpamBot.Form1.resources
+D:\VSProjects\SpamBot\SpamBot\obj\Debug\SpamBot.Properties.Resources.resources
+D:\VSProjects\SpamBot\SpamBot\obj\Debug\SpamBot.csproj.GenerateResource.cache
+D:\VSProjects\SpamBot\SpamBot\obj\Debug\SpamBot.csproj.CoreCompileInputs.cache
+D:\VSProjects\SpamBot\SpamBot\obj\Debug\SpamBot.exe
+D:\VSProjects\SpamBot\SpamBot\obj\Debug\SpamBot.pdb
