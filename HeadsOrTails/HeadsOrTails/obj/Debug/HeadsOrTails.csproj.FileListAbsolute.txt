@@ -1,0 +1,7 @@
+D:\VSProjects\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe.config
+D:\VSProjects\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe
+D:\VSProjects\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.pdb
+D:\VSProjects\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.AssemblyReference.cache
+D:\VSProjects\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.CoreCompileInputs.cache
+D:\VSProjects\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.exe
+D:\VSProjects\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.pdb
