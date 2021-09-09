@@ -1,0 +1,7 @@
+D:\VSProjects\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csproj.AssemblyReference.cache
+D:\VSProjects\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csproj.CoreCompileInputs.cache
+D:\VSProjects\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe.config
+D:\VSProjects\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe
+D:\VSProjects\DiceRoll\DiceRoll\bin\Debug\DiceRoll.pdb
+D:\VSProjects\DiceRoll\DiceRoll\obj\Debug\DiceRoll.exe
+D:\VSProjects\DiceRoll\DiceRoll\obj\Debug\DiceRoll.pdb
