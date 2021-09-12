@@ -1,0 +1,10 @@
+D:\VSProjects\NumberGuesserForm\NumberGuesserForm\obj\Debug\NumberGuesserForm.csproj.AssemblyReference.cache
+D:\VSProjects\NumberGuesserForm\NumberGuesserForm\obj\Debug\NumberGuesserForm.Properties.Resources.resources
+D:\VSProjects\NumberGuesserForm\NumberGuesserForm\obj\Debug\NumberGuesserForm.csproj.GenerateResource.cache
+D:\VSProjects\NumberGuesserForm\NumberGuesserForm\obj\Debug\NumberGuesserForm.csproj.CoreCompileInputs.cache
+D:\VSProjects\NumberGuesserForm\NumberGuesserForm\bin\Debug\NumberGuesserForm.exe.config
+D:\VSProjects\NumberGuesserForm\NumberGuesserForm\bin\Debug\NumberGuesserForm.exe
+D:\VSProjects\NumberGuesserForm\NumberGuesserForm\bin\Debug\NumberGuesserForm.pdb
+D:\VSProjects\NumberGuesserForm\NumberGuesserForm\obj\Debug\NumberGuesserForm.exe
+D:\VSProjects\NumberGuesserForm\NumberGuesserForm\obj\Debug\NumberGuesserForm.pdb
+D:\VSProjects\NumberGuesserForm\NumberGuesserForm\obj\Debug\NumberGuesserForm.Tries.resources
