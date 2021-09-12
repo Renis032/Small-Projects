@@ -1,0 +1,10 @@
+D:\VSProjects\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe.config
+D:\VSProjects\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe
+D:\VSProjects\CoinFlip\CoinFlip\bin\Debug\CoinFlip.pdb
+D:\VSProjects\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csproj.AssemblyReference.cache
+D:\VSProjects\CoinFlip\CoinFlip\obj\Debug\CoinFlip.CoinFlipGame.resources
+D:\VSProjects\CoinFlip\CoinFlip\obj\Debug\CoinFlip.Properties.Resources.resources
+D:\VSProjects\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csproj.GenerateResource.cache
+D:\VSProjects\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csproj.CoreCompileInputs.cache
+D:\VSProjects\CoinFlip\CoinFlip\obj\Debug\CoinFlip.exe
+D:\VSProjects\CoinFlip\CoinFlip\obj\Debug\CoinFlip.pdb
