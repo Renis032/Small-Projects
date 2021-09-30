@@ -1,0 +1,9 @@
+D:\VSProjects\CasinoGame\CasinoGame\bin\Release\CasinoGame.exe.config
+D:\VSProjects\CasinoGame\CasinoGame\bin\Release\CasinoGame.exe
+D:\VSProjects\CasinoGame\CasinoGame\bin\Release\CasinoGame.pdb
+D:\VSProjects\CasinoGame\CasinoGame\obj\Release\CasinoGame.Jackpot.resources
+D:\VSProjects\CasinoGame\CasinoGame\obj\Release\CasinoGame.Properties.Resources.resources
+D:\VSProjects\CasinoGame\CasinoGame\obj\Release\CasinoGame.csproj.GenerateResource.cache
+D:\VSProjects\CasinoGame\CasinoGame\obj\Release\CasinoGame.csproj.CoreCompileInputs.cache
+D:\VSProjects\CasinoGame\CasinoGame\obj\Release\CasinoGame.exe
+D:\VSProjects\CasinoGame\CasinoGame\obj\Release\CasinoGame.pdb
