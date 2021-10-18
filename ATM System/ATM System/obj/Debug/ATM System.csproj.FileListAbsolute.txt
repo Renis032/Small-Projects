@@ -1,0 +1,10 @@
+D:\VSProjects\ATM System\ATM System\bin\Debug\ATM System.exe.config
+D:\VSProjects\ATM System\ATM System\bin\Debug\ATM System.exe
+D:\VSProjects\ATM System\ATM System\bin\Debug\ATM System.pdb
+D:\VSProjects\ATM System\ATM System\obj\Debug\ATM System.csproj.AssemblyReference.cache
+D:\VSProjects\ATM System\ATM System\obj\Debug\ATM_System.Form1.resources
+D:\VSProjects\ATM System\ATM System\obj\Debug\ATM_System.Properties.Resources.resources
+D:\VSProjects\ATM System\ATM System\obj\Debug\ATM System.csproj.GenerateResource.cache
+D:\VSProjects\ATM System\ATM System\obj\Debug\ATM System.csproj.CoreCompileInputs.cache
+D:\VSProjects\ATM System\ATM System\obj\Debug\ATM System.exe
+D:\VSProjects\ATM System\ATM System\obj\Debug\ATM System.pdb
