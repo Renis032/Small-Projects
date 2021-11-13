@@ -90,7 +90,7 @@ namespace Tetris
             {
                 Sound();
             });
-            thread.Start();
+            //thread.Start();
 
             Console.Title = "Tetris v1.0";
             Console.WindowHeight = consoleRows + 1;

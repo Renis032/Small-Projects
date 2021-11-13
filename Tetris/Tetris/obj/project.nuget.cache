@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nty5iDYechF0W9aS7eDqx2VwmAb6P9mSl/Bo3lgx2MO+/+ka9f3h0wd3fjRDOPxZBIYZt8Omrtde+fGxllnCUQ==",
+  "dgSpecHash": "a9E/G2fA1YEoe3TuH4iNJq9O+uYXKnlNMP3O5sXtO0qfC0f7+OgDk9DKeTmEcTJf1lGeTGvsceOdUC2bspBDFg==",
   "success": true,
-  "projectFilePath": "D:\\VSprojects\\Tetris\\Tetris\\Tetris.csproj",
+  "projectFilePath": "D:\\Tetris\\Tetris\\Tetris.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
